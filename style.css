@@ -1,0 +1,188 @@
+
+.bodi{
+  overflow-x: hidden;
+  overflow-y: scroll;
+  background-color: rgb(229, 233, 239);
+  
+}      
+.home{
+  display: flex;
+}
+#ome{
+  color:rgb(235, 23, 23);
+}
+#sign{
+  position: relative;
+  left: 50%;
+  width: 10%;
+  height: 5%;
+  background-color: rgb(229, 233, 239);
+}
+#fix{
+  color: rgb(237, 41, 41);
+}
+.color{
+  position: relative;
+  font-size: smaller;
+}
+#more{
+  position: relative;
+  bottom: 350px;
+  background-color:  rgb(235, 23, 23);
+  color: white;
+}
+#shoe1{
+  position: relative;
+  bottom: 200px;
+  left: 35%;
+  background-color: rgb(229, 233, 239);
+}
+#best{
+  text-align: center;
+  position: relative;
+  bottom: 120px;
+}
+#shoe2{
+  width: 20%;
+
+  position: relative;
+  
+}
+.shoe3{
+  height: 5px;
+  width: 2%;
+}
+.shoe6{
+  position: relative;
+  left: 30%;
+  bottom: 300px;
+  font-size: smaller;
+}
+.mean{
+  position: relative;
+  bottom: 25px;
+}
+.puma1{
+  position: relative;
+  font-size: smaller;
+}
+#shoe4{
+  width: 15%;
+  position: relative;
+  transform: rotate(680deg);
+  
+
+}
+.shoe5{
+  position: relative;
+  left: 60%;
+  bottom: 600px;
+  font-size: smaller;
+}
+#feat{
+  text-align: center;
+}
+.product{
+  position: relative;
+  bottom: 500px;
+}
+.Nike{
+  position: relative;
+  bottom: 800px;
+  left: 25%;
+
+
+}
+#Running{
+  width: 15%;
+  
+}
+#puma3{
+  width: 10%;
+}
+.men3{
+  position: relative;
+  bottom: 1050px;
+  left: 50%;
+}
+.fila1{
+  position: relative;
+  left: 70%;
+  bottom: 1300px;
+}
+#fila2{
+  width: 10%;
+}
+.glo1{
+  position: relative;
+  bottom: 1200px;
+
+}
+#glo2{
+  width: 10%;
+}
+.glo3{
+  position: relative;
+  bottom: 1450px;
+  left: 25%;
+  
+}
+#glo4{
+  width: 15%; 
+}
+.glo5{
+  position: relative;
+  left: 45%;
+  bottom: 1720px;
+
+}
+#glo6{
+  width: 15%;
+
+
+}
+.glo7{
+  position: relative;
+  left: 65%;
+  bottom: 1930px;
+
+
+}
+#glo8{
+  width: 10%;
+
+}
+.lad{
+  position: relative;
+  bottom: 1900px;
+
+}
+.lad2{
+  width: 20%;
+}
+.lad3{
+  width: 20%;
+  position: relative;
+  bottom: 2200px;
+  left: 30%;
+}
+#special{
+  position: relative;
+  bottom: 2000px;
+  
+}
+.dolar{
+  display: flex;
+}
+.mobi{
+  position: relative;
+  left: 20%;
+}
+.help{
+  position: relative;
+  left: 20%;
+}
+.low{
+  position: relative;
+  left: 20%;
+}
